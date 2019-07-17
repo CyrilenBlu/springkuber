@@ -7,4 +7,3 @@ Multi-Maven Spring Boot Project to demo test with Kubernetes and spotify dockerf
     > Kubernetes Setup
     > JUnit Classes
     > CI (Jenkins/Teamcity/Circle Ci)
-    > Learn/Try out deployment.
