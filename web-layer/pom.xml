@@ -5,10 +5,10 @@
     <parent>
         <groupId>blu.springkub</groupId>
         <artifactId>demo</artifactId>
-        <version>0.1</version>
+        <version>0.2</version>
     </parent>
     <artifactId>web-layer</artifactId>
-    <version>0.1</version>
+    <version>0.2</version>
     <name>web-layer</name>
     <description>Web Layer for Kubernetes</description>
 
