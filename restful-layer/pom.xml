@@ -120,8 +120,9 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <repository>springkub/restlayer</repository>
+                    <repository>cyrilenblu/springkub-restlayer</repository>
                     <tag>${project.version}</tag>
+                    <useMavenSettingsForAuth>true</useMavenSettingsForAuth>
                     <buildArgs>
                         <WAR_FILE>target/${project.build.finalName}.war</WAR_FILE>
                     </buildArgs>
